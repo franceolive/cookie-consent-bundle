@@ -63,7 +63,7 @@
         "symfony/http-kernel": "^8.0",
         "symfony/security-csrf": "^8.0",
         "symfony/security-http": "^8.0",
-        "symfony/stimulus-bundle": "^2.0|^3.0"
+        "symfony/stimulus-bundle": "^2.0|^3.0",
         "symfony/twig-bundle": "^8.0",
         "symfony/ux-twig-component": "^2.0"
     },
